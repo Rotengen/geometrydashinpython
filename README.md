@@ -11,9 +11,13 @@ The msvcrt module, which is pre-installed on Windows(Likely doesn't work or othe
 Toggleable constraints for user experience:
 
 line 13, variable called "framewait", causes different frame loading
+
 Higher numbers are slower but less glitchy
+
 Lower numbers are faster but more glitchy
+
 Play around with a good value.
+
 Default is 3.
 
 
