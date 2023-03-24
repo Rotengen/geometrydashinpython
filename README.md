@@ -1,6 +1,9 @@
 # geometrydashinpython
 Geometry dash, in Python! No Pygame, no Imaging, just ASCII art.
 
+Controls:
+
+Enter to begin playing, Space or Enter to jump
 
 Installation needs:
 
