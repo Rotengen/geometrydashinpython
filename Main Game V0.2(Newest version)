@@ -63,7 +63,7 @@ length1 = 20
 #end of init
 while True:
     print("IDs:")
-    print("ID 0: Loaded custom level")
+    print("ID 0: Part of Time machine")
     print("ID 1: Trial 1")
     t = input("Type the id for the level you want to play.")
     if t == "0":
